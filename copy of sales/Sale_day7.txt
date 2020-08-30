@@ -1,0 +1,52 @@
+04/06/2013
+11133
+Beef Bulgogi
+7.41	3
+04/06/2013
+11321
+Chobani Peach Yogurt
+2.79	12
+04/06/2013
+11347
+Alexa V2
+104.79	1
+04/06/2013
+14129
+Potato Pierogis
+17.25	3
+04/06/2013
+16161
+The Good the Bad and the Ugly
+19.95	1
+04/06/2013
+44443
+Monk Season 6
+10.95	1
+04/06/2013
+55626
+Eureaka Season 2
+19.95	1
+04/06/2013
+66440
+Apple Pie
+11.24	1
+04/06/2013
+77862
+Saltine Crackers
+4.95	12
+04/06/2013
+85858
+Radishes
+2.42	2
+04/06/2013
+88885
+Gruyere Cheese
+6.75	5
+04/06/2013
+89992
+Seaweed
+11.40 1
+04/06/2013
+99624
+Pork Belly
+21.42 1

@@ -1,0 +1,48 @@
+03/06/2013
+61616
+1 gallon milk
+2.49	5
+03/06/2013
+77777
+Wonder Bread
+1.29	6
+03/06/2013
+77777
+1.5 dozen eggs
+1.29	3
+03/06/2013
+35647
+Hamburger
+7.25	1
+03/06/2013
+31311
+The Bourne Supremacy
+19.95	1
+03/06/2013
+12121
+Toilet Paper
+11.75	1
+03/06/2013
+67899
+Ponds Lotion
+5.79	1
+03/06/2013
+61616
+VCR/DVD Player
+89.99	1
+03/06/2013
+61616
+Levi 501's
+21.50	4
+03/06/2013
+12345
+Farberware Cookware Set
+189.99	2
+03/06/2013
+61616
+Coffee Creamer
+4.75	5
+03/06/2013
+12345
+Legal Pads
+6.25	10

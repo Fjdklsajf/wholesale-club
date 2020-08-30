@@ -1,0 +1,52 @@
+04/10/2013
+11133
+Alarm Clock
+12.00	1
+04/10/2013
+11321
+Deck of Cards
+6.39	4
+04/10/2013
+11347
+Galbani Mozzerella
+6.79	4
+04/10/2013
+14129
+Mug
+13.05	1
+04/10/2013
+16161
+Foam Roller
+23.05	2
+04/10/2013
+44443
+Chocolate Bar
+4.49	6
+04/10/2013
+55626
+Stopwatch
+4.95	1
+04/10/2013
+66440
+Speaker System
+123.48	1
+04/10/2013
+77862
+Barilla Pasta
+6.95	2
+04/10/2013
+85858
+Pack of Rubber Bands
+2.30	10
+04/10/2013
+88885
+Sunbeam Heat Pack
+25.75	1
+04/10/2013
+89992
+Lays Chips
+3.25 1
+04/10/2013
+99624
+Key Lime Pie
+11.42 2

@@ -1,0 +1,52 @@
+04/05/2013
+11133
+Black Pepper
+1.42	3
+04/05/2013
+11321
+Whole Wheat Bread
+2.79	4
+04/05/2013
+11347
+Kosher Salt
+4.79	1
+04/05/2013
+14129
+Kimchi
+17.25	2
+04/05/2013
+16161
+Mission Impossible 4
+19.95	1
+04/05/2013
+44443
+Friends Season 2
+10.95	1
+04/05/2013
+55626
+Avengers Age of Ultron
+19.95	1
+04/05/2013
+66440
+Apples
+1.24	6
+04/05/2013
+77862
+Fage Yogurt
+4.95	12
+04/05/2013
+85858
+Dutch Processed Cocoa
+20.42	2
+04/05/2013
+88885
+American Cheese
+6.75	5
+04/05/2013
+89992
+LG 4K TV
+3049.99 1
+04/05/2013
+99624
+Yamaha Receiver
+199.99 1

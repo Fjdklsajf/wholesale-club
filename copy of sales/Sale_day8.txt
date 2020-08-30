@@ -1,0 +1,52 @@
+04/07/2013
+11133
+Kim Bap
+4.41	3
+04/07/2013
+11321
+Choco Pie
+2.79	12
+04/07/2013
+11347
+Nestle Cocoa Powder
+11.30	1
+04/07/2013
+14129
+Sour Skittles
+3.25	11
+04/07/2013
+16161
+Daredevil
+9.99	1
+04/07/2013
+44443
+Nails
+2.49	6
+04/07/2013
+55626
+Jack's Frozen Pizza
+4.95	10
+04/07/2013
+66440
+Bananas
+1.48	7
+04/07/2013
+77862
+Skinny Pop Popcorn
+4.95	8
+04/07/2013
+85858
+Naked Fruit Juice
+4.30	2
+04/07/2013
+88885
+Sargento Sharp Cheddar
+5.75	4
+04/07/2013
+89992
+Sour Skittles
+3.25 8
+04/07/2013
+99624
+Kiwis
+3.42 7

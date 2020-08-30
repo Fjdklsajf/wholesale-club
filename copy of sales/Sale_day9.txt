@@ -1,0 +1,52 @@
+04/08/2013
+11133
+Mushrooms
+3.41	8
+04/08/2013
+11321
+Legal Paper
+2.79	12
+04/08/2013
+11347
+Mission Impossible 3
+11.30	1
+04/08/2013
+14129
+Diet Pepsi
+3.05	7
+04/08/2013
+16161
+Disney DVD Collection 3
+49.99	1
+04/08/2013
+44443
+Crest Mouthwash
+2.49	6
+04/08/2013
+55626
+Digiorno Pizza
+8.95	5
+04/08/2013
+66440
+White Pepper
+8.48	1
+04/08/2013
+77862
+Marvel Cinema Collection
+44.95	1
+04/08/2013
+85858
+Spiderman 3
+14.30	2
+04/08/2013
+88885
+Zebra Bars
+5.75	4
+04/08/2013
+89992
+Pork Ribs
+13.25 2
+04/08/2013
+99624
+Lemons
+1.42 8
